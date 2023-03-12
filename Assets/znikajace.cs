@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class znikajace : MonoBehaviour
 {
-    public float timeToTogglePlatform = 1;
+    public float timeToTogglePlatform = 3;
     public float currentTime = 0;
     public bool enabled = true;
 
